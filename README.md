@@ -7,7 +7,7 @@
     </ul>
     <h2>✨ Highlights:</h2>
     <ul>
-        <li>Organized by chapters/topics for easy navigation.</li>
+        <li>Organized by days I did it for easy track of progress.</li>
         <li>Focused on building a strong foundation in C programming.</li>
         <li>A great resource for beginners or anyone revisiting C concepts.</li>
     </ul>
